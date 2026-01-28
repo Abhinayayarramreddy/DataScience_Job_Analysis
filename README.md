@@ -30,11 +30,17 @@ All worksheets are integrated into a single interactive dashboard, creating a co
 🔍 The dashboard helps users quickly understand:
 
 ✔ Where most data professionals are located
+
 ✔ Which company sizes dominate hiring
+
 ✔ How workforce seniority is distributed
+
 ✔ The most common employment types
+
 ✔ How salaries vary by experience and job type
+
 ✔ Which countries offer higher average pay
+
 ✔ Which job roles are the most rewarding
 
 🎛 Interactive Features
@@ -45,3 +51,6 @@ The dashboard includes dynamic filters that allow deeper exploration:
 🔹 Company Location Filter – Analyze trends based on company region
 
 These filters make the dashboard user-driven and allow customized analysis in seconds.
+
+<img width="1918" height="1027" alt="Screenshot 2026-01-28 111126" src="https://github.com/user-attachments/assets/c539f09c-39c0-4610-a886-5d16ec34413a" />
+
